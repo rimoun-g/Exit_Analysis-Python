@@ -1,6 +1,8 @@
 # Exit Analysis
 ## Introduction:
 - There is XYZ company that have monthly records of employees who leave monthly. The Analysis is made in a form of questions and answers. The questions were provided from the company side.
+The folder contains many notebooks for different stages of the analysis.
+#### ![Project plan](https://i.imgur.com/TMXz6lJ.jpg "Analysis plan")
 ## Data:
 - At the beginning the data was collected from word files. After making the first analysis, the company was interested in more analysis and provided more data with more features. The data provided  by the company but not allowed to be published. However, the results were published as a demonstration for analysis.
 ## Stages:
