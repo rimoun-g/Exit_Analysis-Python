@@ -14,4 +14,7 @@ The folder contains many notebooks for different stages of the analysis.
 - Made some assumptions and used inferential statistics to answer them.
 ### Fourth:
 - Created a basic Linear Regression Model to predict the service period of employee based on previous observations.
-
+### Fifth:
+- Created an application `User interface` using tkinter to use it with the model to estimate the service period for an employee before joining.
+#### ![User interface1](https://i.imgur.com/F3iDE2O.jpg "Application user interface")
+#### ![User interface2](https://i.imgur.com/RiuWdJB.jpg "Application prediction")
