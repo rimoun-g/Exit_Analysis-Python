@@ -1,0 +1,7 @@
+.ipynb_checkpoints
+/Descriptive_Analysis/.ipynb_checkpoints
+/Inferential_Analysis/.ipynb_checkpoints
+/Descriptive_Analysis_2/.ipynb_checkpoints
+*.csv
+/Inferential_Analysis/*.csv
+/Descriptive_Analysis_2/*.csv
