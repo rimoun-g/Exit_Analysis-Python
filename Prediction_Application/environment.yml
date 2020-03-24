@@ -1,0 +1,44 @@
+name: my_env
+channels:
+  - defaults
+dependencies:
+  - blas=1.0=mkl
+  - ca-certificates=2020.1.1=0
+  - certifi=2019.11.28=py36_1
+  - icc_rt=2019.0.0=h0cc432a_1
+  - intel-openmp=2019.4=245
+  - joblib=0.14.1=py_0
+  - mkl=2019.4=245
+  - mkl-service=2.3.0=py36hb782905_0
+  - mkl_fft=1.0.15=py36h14836fe_0
+  - mkl_random=1.1.0=py36h675688f_0
+  - numpy=1.17.4=py36h4320e6b_0
+  - numpy-base=1.17.4=py36hc3f5095_0
+  - openssl=1.1.1e=he774522_0
+  - pandas=0.25.3=py36ha925a31_0
+  - pip=20.0.2=py36_1
+  - python=3.6.9=h5500b2f_0
+  - python-dateutil=2.8.1=py_0
+  - pytz=2019.3=py_0
+  - setuptools=46.1.1=py36_0
+  - six=1.14.0=py36_0
+  - sqlite=3.31.1=he774522_0
+  - vc=14.1=h0510ff6_4
+  - vs2015_runtime=14.16.27012=hf0eaf9b_1
+  - wheel=0.34.2=py36_0
+  - wincertstore=0.2=py36h7fe50ca_0
+  - pip:
+    - astroid==2.3.3
+    - babel==2.7.0
+    - colorama==0.4.3
+    - isort==4.3.21
+    - lazy-object-proxy==1.4.3
+    - mccabe==0.6.1
+    - pylint==2.4.4
+    - scikit-learn==0.22
+    - scipy==1.3.3
+    - sklearn==0.0
+    - tkcalendar==1.5.1
+    - typed-ast==1.4.0
+    - wrapt==1.11.2
+
