@@ -20,3 +20,9 @@ User interface options
 #### ![User interface1](https://i.imgur.com/F3iDE2O.jpg "Application user interface")  
 The Result  
 #### ![User interface2](https://i.imgur.com/RiuWdJB.jpg "Application prediction")  
+
+## How to Run the application:
+In the application path use bash or conda cmd to run the following command:  
+```conda env create -f environment.yml```  
+After that activate the enviroment:```conda activate my_env```   
+and run the script: `python "main panel.py" `
